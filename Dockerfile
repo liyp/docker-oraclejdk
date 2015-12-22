@@ -3,9 +3,9 @@ FROM debian:jessie
 MAINTAINER liyp <liyp.yunpeng@gmail.com>
 
 ENV \
-  JAVA_VERSION=7 \
-  JAVA_UPDATE=79 \
-  JAVA_BUILD=15 \
+  JAVA_VERSION=8 \
+  JAVA_UPDATE=65 \
+  JAVA_BUILD=17 \
   JAVA_HOME=/opt/jdk
 
 RUN \
